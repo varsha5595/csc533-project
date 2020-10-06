@@ -24,7 +24,7 @@ def generate_general_declaration():
     As per the paper, there exists three declaration types:
     collect_info = ['collect', 'gather', 'check'] -> 1
     general_term = ['personal information', 'personal data'] -> 2
-    relationship_words = ['such as', 'include'] ->3
+    relationship_words = ['such as', 'include', 'including'] ->3
     """
 
     declaration_types = {
@@ -55,7 +55,7 @@ def flag_skill(skillID):
     """
 
     # TODO: Take input based on the interaction with the Alexa skill
-    privacy_related_words = ['name']
+    privacy_related_words = ['name', 'email', 'address', 'number']
     pp_unigrams = generate_tokens('../plaintext_policies/' + skillID + '.txt')
 
     presence_check = any(word in pp_unigrams for word in privacy_related_words)

@@ -1,3 +1,5 @@
+import os
+
 from src.parser import Parser
 from src.skill_desc_scraper import SkillScraper, flag_skill
 
@@ -16,11 +18,13 @@ def main():
     skill_scraper = SkillScraper(skill_list)
     # skill_scraper.scrape_skill_details()
 
-    # TODO Check privacy policies of all the skills in skill_list
-    flag_status = flag_skill('B07KWT2RLP')
-    print("Skill 'Loud Bird' is violating the privacy policy: " + str(flag_status))
+    for file_name in os.listdir("../plaintext_policies"):
+        if file_name.endswith('.txt'):
+            skillID = os.path.splitext(file_name)[0]
+            flag_status = flag_skill(skillID)
+            print("Skill " + skillID + " is violating the privacy policy: " + str(flag_status))
 
-    return flag_status
+    return
 
 
 if __name__ == "__main__":
