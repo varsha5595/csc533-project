@@ -6,6 +6,8 @@ Smart speakers have been popularly used around the world, mainly due to the conv
 
 ## Setup
 
+If you wish to test the system with the sample privacy policies provided by the rpository, skip to the Execution step. If you wish add new privacy policies, follow the below instructions.
+
 ### Obtaining the privacy policy
 1. Navigate to any skill on the Amazon market place
 2. Under the "Skill details" section, click on "Privacy Policy"
