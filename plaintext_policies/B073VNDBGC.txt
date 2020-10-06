@@ -1,0 +1,24 @@
+Privacy Policy
+labworks.io ltd ("us", "we", or "our") builds and operates voice assistant applications (hereafter referred to as "Voice Apps").
+This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from you (including from users of our Voice Apps). By using our services, including but not limited to our Voice Apps and website, you agree to the collection and use of information in accordance with this policy.
+We use your Personal Information for the providing, improving and marketing of our Voice Apps and services, and those of our partners.
+Information collection and use
+While using our Voice Apps or services, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your name ("Personal Information"), email address and home address.
+Log Data
+Like all Voice Apps operators, we collect information that the platform providers (including but not limited to Amazon and Google) sends us whenever you use our applications ("Log Data").
+This Log Data may include information such as your device type, the parts of the Voice Apps that you interact with, the time and date of your use, the time spent on the Voice Apps and other statistics.
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this information.
+Communications
+We may use your Personal Information to contact you via the email you provided if we need further information to improve our Voice Apps and services.
+Security
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+How long we can hold your data for
+We will hold your data for 24 months from your last interaction with one of our Voice Apps, products or services. Interactions include but are not limited to using one of our Voice Apps, purchasing something, paying a subscription, opening an email and visiting our website. After this time your data will be automatically erased.
+Changes to this Privacy Policy
+This Privacy Policy is effective as of the 'Last updated' date and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of our Voice Apps or services after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+Contact Us
+If you have any questions about this Privacy Policy, don't wish us to use your data for any of the purposes outlined in this Privacy Policy or have a complaint about how we're using your data please contact us at hi@labworks.io
+If you're unhappy with our response and believe we are handling your data incorrectly you can contact the Information Commissioner.
+Last updated: 10 January 2020
+Go to Homepage
