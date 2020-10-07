@@ -30,7 +30,6 @@ python3 main.py
 ```
 
 ```
-cd src
 Execute the ipython notebook in collab to get the Dependency and Parse Trees
 ```
 
